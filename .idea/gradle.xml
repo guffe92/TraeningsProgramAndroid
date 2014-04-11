@@ -9,6 +9,7 @@
           <set>
             <option value="D:\AndroidStudioProjects\TraeningsProgramAndroid" />
             <option value="D:\AndroidStudioProjects\TraeningsProgramAndroid\app" />
+            <option value="D:\AndroidStudioProjects\TraeningsProgramAndroid\lib" />
           </set>
         </option>
       </GradleProjectSettings>
